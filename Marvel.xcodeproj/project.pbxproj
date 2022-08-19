@@ -16,6 +16,7 @@
 		0535B86F28AF7AB4008F4953 /* MarvelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0535B86E28AF7AB4008F4953 /* MarvelTests.swift */; };
 		0535B87928AF7AB4008F4953 /* MarvelUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0535B87828AF7AB4008F4953 /* MarvelUITests.swift */; };
 		0535B87B28AF7AB4008F4953 /* MarvelUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0535B87A28AF7AB4008F4953 /* MarvelUITestsLaunchTests.swift */; };
+		0535B88828AF87EA008F4953 /* Hero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0535B88728AF87EA008F4953 /* Hero.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0535B87428AF7AB4008F4953 /* MarvelUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MarvelUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0535B87828AF7AB4008F4953 /* MarvelUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarvelUITests.swift; sourceTree = "<group>"; };
 		0535B87A28AF7AB4008F4953 /* MarvelUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarvelUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0535B88728AF87EA008F4953 /* Hero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hero.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				0535B86028AF7AB4008F4953 /* Assets.xcassets */,
 				0535B86228AF7AB4008F4953 /* LaunchScreen.storyboard */,
 				0535B86528AF7AB4008F4953 /* Info.plist */,
+				0535B88728AF87EA008F4953 /* Hero.swift */,
 			);
 			path = Marvel;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				0535B85C28AF7AB3008F4953 /* ViewController.swift in Sources */,
 				0535B85828AF7AB3008F4953 /* AppDelegate.swift in Sources */,
 				0535B85A28AF7AB3008F4953 /* SceneDelegate.swift in Sources */,
+				0535B88828AF87EA008F4953 /* Hero.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
